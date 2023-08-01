@@ -301,7 +301,7 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url="https://t.me/errorBots_network/57"
+                                "ʜᴇᴀʟᴛʜ", url="https://t.me/errorBots_network/58"
                             ),
                             InlineKeyboardButton(
                                 "ᴅɪꜱᴀꜱᴛᴇʀ", url="https://t.me/errorBots_network/56"
