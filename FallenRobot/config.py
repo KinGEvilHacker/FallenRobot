@@ -7,9 +7,9 @@ class Config(object):
 
     CASH_API_KEY = "b1f0c9ca9708e56135ce4d2a"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
-    DATABASE_URL = ""  # A sql database url from elephantsql.com
+    DATABASE_URL = "mongodb+srv://deadman:deadman.123@cluster0.o9ndlqe.mongodb.net/?retryWrites=true&w=majority"  # A sql database url from elephantsql.com
 
-    EVENT_LOGS = (-1001989867442)  # Event logs channel to note down important bot level events
+    EVENT_LOGS = -1001989867442  # Event logs channel to note down important bot level events
 
     MONGO_DB_URI = ""  # Get ths value from cloud.mongodb.com
 
