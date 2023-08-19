@@ -5,11 +5,11 @@ class Config(object):
     API_ID = 28733143
     API_HASH = "f7bbd29cf8ba336237046dbecfeab519"
 
-    CASH_API_KEY = ""  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
+    CASH_API_KEY = "b1f0c9ca9708e56135ce4d2a"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
     DATABASE_URL = ""  # A sql database url from elephantsql.com
 
-    EVENT_LOGS = ()  # Event logs channel to note down important bot level events
+    EVENT_LOGS = (-1001989867442)  # Event logs channel to note down important bot level events
 
     MONGO_DB_URI = ""  # Get ths value from cloud.mongodb.com
 
@@ -18,9 +18,9 @@ class Config(object):
 
     SUPPORT_CHAT = "themortalclan"  # Your Telegram support group chat username where your users will go and bother you
 
-    TOKEN = ""  # Get bot token from @BotFather on Telegram
+    TOKEN = "6029125509:AAG9tRo6Ife6FPY-y7gR-yxj_9L6dpku7Dk"  # Get bot token from @BotFather on Telegram
 
-    TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
+    TIME_API_KEY = "VR3PITQSIABL"  # Get this value from https://timezonedb.com/api
 
     OWNER_ID = 1138802391  # User id of your telegram account (Must be integer)
 
