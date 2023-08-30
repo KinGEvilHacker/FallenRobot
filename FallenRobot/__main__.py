@@ -402,10 +402,6 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         InlineKeyboardButton(
                             text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"
                         ),
-                        InlineKeyboardButton(
-                            text="ɢɪᴛʜᴜʙ",
-                            url="https://github.com/KinGEvilHacker",
-                        ),
                     ],
                     [
                         InlineKeyboardButton(text="◁", callback_data="fallen_"),
